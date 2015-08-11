@@ -66,7 +66,7 @@
 
         </header><!-- #header end -->
 
-        <section id="slider" class="full-screen dark" style="background: url(images/fondo_vitispro.jpg) center;">
+        <section id="slider" class="full-screen dark" style="background: url(images/fondo_vitispro1.jpg) center;">
 
             <div class="container clearfix vertical-middle">
 

@@ -79,17 +79,6 @@
 
                 <div class="divider divider-center divider-short divider-margin"><i class="icon-time"></i></div>
 
-                <div id="widget-subscribe-form-result" data-notify-type="success" data-notify-msg=""></div>
-                <form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="nobottommargin">
-                    <div class="input-group input-group-lg divcenter" style="max-width:600px;">
-                        <span class="input-group-addon"><i class="icon-email2"></i></span>
-                        <input type="email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
-                        <span class="input-group-btn">
-                            <button class="btn btn-info" type="submit">Suscribirse</button>
-                        </span>
-                    </div>
-                </form>
-
                 <script>
                     jQuery(document).ready( function($){
                         var newDate = new Date(2016, 7, 31);
@@ -174,7 +163,7 @@
                             </div>
 
                             <div class="col_full">
-                                <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
+                                <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Enviar Mensaje</button>
                             </div>
 
                         </form>
